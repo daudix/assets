@@ -30,7 +30,7 @@ Take a look at awesome-gemini for list of great Gemini-related projects
 
 ## Gemini Browsers
 
-Gemini is a protocol that are not supported by regular web browsers, so you will need a separate browser for it, as Gemini protocol are much easier than web, there are a lot of browsers for it, some good ones are:
+Gemini is a protocol that are not supported by regular web browsers, so you will need a separate browser for it. As Gemini protocol are much easier than web, there are a lot of browsers for it, some good ones are:
 
 * Lagrange (Cross-platform) - Beautiful, fast and customizable Gemini browser
 * Geopard (Linux) - Colorful and adaptive Libadwaita Gemini browser written in Rust
