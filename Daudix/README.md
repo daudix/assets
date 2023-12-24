@@ -1,1 +1,1 @@
-This directory contains my personal "Daudix UFO" brand assets
+This directory contains assets for my personal "Dauidx" _brand_
