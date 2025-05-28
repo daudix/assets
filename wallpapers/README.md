@@ -11,4 +11,3 @@
 - "Amber", "Lava" and "Waves" are made using Inkscape's mesh gradient tool and GNOME [color palette](https://developer.gnome.org/hig/reference/palette.html) (dear Apple, Google and Mozilla, please add support for SVG mesh gradients!)
 
 PNG to JXL with noise: `cjxl --photon_noise=ISO800 input.png output.jxl`
-
